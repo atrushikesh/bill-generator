@@ -1,5 +1,5 @@
 # Pizza Bill Generator Using Java
-This is a project made 100% using Java.<img src="https://dev.java/assets/images/java-logo-60.png" alt="java logo" style="height: 16px; width:22;"/>
+#### This is a project made 100% using <img src="https://dev.java/assets/images/java-logo-60.png" alt="java logo" style="height: 24px; width:32;"/>
 
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/003/222/374/small/black-and-white-doodle-background-for-a-pizzeria-theme-vector.jpg" alt="java logo" style="height: 250px; width:600;"/>
