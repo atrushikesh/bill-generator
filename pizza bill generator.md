@@ -2,7 +2,7 @@
 This is a project made 100% using Java.
 
 
-<img src="https://dev.java/assets/images/java-logo-60.png" alt="java logo" style="height: 100px; width:100px;"/>
+<img src="https://cdn1.sysgears.com/images/blog/banners/java-9b911fbb27c182112b9a2d4670cdaf55.png" alt="java logo" style="height: 100px; width:auto; display: absolute; right: 20px; top: 20px;"/>
 
 
 I created a Bill Gererator interface where the customer can order two types of pizzas, a "Regular" one and a "Max" pizza.
