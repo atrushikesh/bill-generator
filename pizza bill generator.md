@@ -1,6 +1,8 @@
 # Pizza Bill Generator Using Java
 This is a project made 100% using Java.
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
+
+<img src="https://dev.java/assets/images/java-logo-60.png" alt="java logo" style="height: 100px; width:100px;"/>
 
 
 I created a Bill Gererator interface where the customer can order two types of pizzas, a "Regular" one and a "Max" pizza.
