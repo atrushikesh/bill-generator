@@ -1,11 +1,21 @@
 # Pizza Bill Generator Using Java
 This is a project made 100% using Java.
+
+
 I created a Bill Gererator interface where the customer can order two types of pizzas, a "Regular" one and a "Max" pizza.
+
+
 Both of these have the option of veg and non veg.
+
+
 There is also an option of the regular pizza for add-ons of :
 1. Extra Cheeze
 2. Extra Toppins
+
+
 Both of these cost a few extra.
+
+
 There is also option to take away with additional costs.
 ```
 public class pizza{
